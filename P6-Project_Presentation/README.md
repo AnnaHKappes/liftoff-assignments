@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+Upload a .PDF of your presentation here for review.[Project Presentation__What's For Dinner.pdf](https://github.com/AnnaHKappes/liftoff-assignments/files/10289532/Project.Presentation__What.s.For.Dinner.pdf)
